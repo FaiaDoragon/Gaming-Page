@@ -1,0 +1,8 @@
+#borde {
+    padding: 10px;
+    border: solid 1px #eee;
+    border-radius: 5px;
+    box-shadow: 2px 2px 0px rgb(0, 0, 0, 0.2);
+    margin: 10px;
+}
+
