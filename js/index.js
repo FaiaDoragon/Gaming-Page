@@ -24,9 +24,5 @@ cabecera.innerHTML = `
             <li>register</li>
         </ul>
     </Nav>`
-
-const ps4list = document.getElementsByClassName('ps4');
-const ps4Lista = document.getElementById('juegos');
-ps4Lista.innerHTML = ps4list
 }
 
