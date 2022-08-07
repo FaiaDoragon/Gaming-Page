@@ -1,5 +1,5 @@
 #header {
-    background-color: rgb(44, 39, 39);
+    background-color: hsl(248, 53%, 50%);
     display: flex;
     flex-direction: column;
     position: fixed;
@@ -9,7 +9,7 @@
 }
 
 #logo-redes {
-    background-color: rgb(88, 76, 76);
+    background-color: hsl(248, 70%, 70%);
     display: flex;
     flex-direction: row;
     width: auto;
